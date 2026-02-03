@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../portfolio website 2"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "turkson"
+	}
+}
